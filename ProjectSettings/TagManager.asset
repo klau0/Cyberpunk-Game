@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameManager
+  - Edge
+  - Weapon
+  - Turret
+  - Blood_BG
+  - Slime_1
+  - Slime_2
+  - Slime_3
+  - JumpRight
+  - JumpLeft
+  - Laser
+  - heart_1
+  - heart_2
+  - heart_3
+  - Pause
+  - Slime
+  - Chest
+  - Win
+  - ScoreManager
+  - ScoreText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
