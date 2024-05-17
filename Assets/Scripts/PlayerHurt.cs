@@ -90,7 +90,7 @@ public class PlayerHurt : MonoBehaviour {
         for (int i = 0; i < 3; i++) {
             string tag = "Slime_" + (i+1);
 
-            if (col.gameObject.tag == tag) {
+            if (col.gameObject.tag == tag && col.gameObject.GetComponent<SlimeHurt>().life > 0) {
                 getHurt();
                 break;
             }
