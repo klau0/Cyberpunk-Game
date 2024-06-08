@@ -57,6 +57,7 @@ public class MenuManager : MonoBehaviour {
             highScoreText.text = "High Score: " + score;
 
             PlayerPrefs.SetInt("highScore", highScore);
+            PlayerPrefs.Save();
         }
     }
 
