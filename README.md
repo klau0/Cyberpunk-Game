@@ -1,6 +1,8 @@
 # Cyberpunk-Game
 ### A cyberpunk themed game made with Unity
 
+![Screenshot of the game in the start](screen.png)
+
 To play, simply run the **Cyberpunk.exe** in the **executable_for_windows** folder. Note that the **whole folder** is needed in order to run the game.
 
 Available options in the game:
